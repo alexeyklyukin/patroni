@@ -15,10 +15,10 @@ Also double check with the current issues on our `Issues Tracker <https://github
 Contributing a pull request
 ===========================
 
-# Submit a comment to the relevant issue or create a new issue describing your proposed change.
-# Do a fork, develop and test your code changes.
-# Include documentation.
-# Submit a pull request.
+#. Submit a comment to the relevant issue or create a new issue describing your proposed change.
+#. Do a fork, develop and test your code changes.
+#. Include documentation.
+#. Submit a pull request.
 
 You'll get feedback about your pull request as soon as possible.
 
